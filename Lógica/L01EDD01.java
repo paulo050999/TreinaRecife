@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L01ES24 {
+public class L01EDD01 {
     public static void main (String []args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe primeiro número: ");
